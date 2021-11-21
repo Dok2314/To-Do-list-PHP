@@ -1,0 +1,40 @@
+body{
+    background-color: #EFF0F3!important;
+}
+.container{
+    margin-top: 50px;
+    width: 25%!important;
+}
+
+.form-control form{
+    background-color: #2FCC9A;
+    border: 2px solid #228E6C;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+form #task{
+    width: 100%;
+    float: left;
+    margin-right: 5%;
+}
+ul{
+    padding: 0 10px!important;
+}
+ul li{
+    list-style: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #fcfcfc;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+ul li:hover{
+    background-color: #e5e5e5;
+}
+ul li button{
+    background-color: #a04141;
+}
+.btn{
+    display: block;
+}
